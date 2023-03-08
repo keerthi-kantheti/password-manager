@@ -1,0 +1,57 @@
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #7683cb;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.person-logo {
+  background-color: #f59e0b;
+  border-radius: 40px;
+  border-width: 0px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.person-details {
+  margin-right: 20px;
+}
+.delete-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.delete-image {
+  height: 40px;
+}
+.bg0 {
+  background-color: #f59e0b;
+}
+.bg1 {
+  background-color: #10b981;
+}
+.bg2 {
+  background-color: #f97316;
+}
+.bg3 {
+  background-color: #14b8a6;
+}
+.bg4 {
+  background-color: #ffffff;
+}
+.bg5 {
+  background-color: #0ea5e9;
+}
+.bg6 {
+  background-color: #64748b;
+}
+.bg7 {
+  background-color: #b91c1c;
+}
